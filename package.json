@@ -1,0 +1,24 @@
+{
+  "name": "beefybois",
+  "version": "1.0.0",
+  "description": "podcast web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rufasa85/beefyBois.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rufasa85/beefyBois/issues"
+  },
+  "homepage": "https://github.com/Rufasa85/beefyBois#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
