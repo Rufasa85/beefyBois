@@ -1,34 +1,46 @@
 body {
-	background-color: #bada55;
+	background-color: #ecf0f1;
 	font-size: 2em;
+	font-family: 'Chango', cursive;
 }
 
 #title {
 	text-align: center;
 }
 
+#logo {
+	width:80%;
+	height: auto;
+}
+
 #bigAssLogo {
-	border:1px solid gold;
-	width:75vw;
-	height: 80vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/*border:1px solid gold;*/
+	width: 80vw;
+	height: auto;
 	margin: 0 auto;
 }
 
 #boisFlex {
 	display: flex;
-	justify-content: center;
+	justify-content: space-around;
 }
 
 .boiPic{
 	width:100%;
-	height: auto
 }
 
 .boisDiv {
-	width:25vw;
-	border:1px solid salmon;
+	width:32vw;
+	/*border:1px solid salmon;*/
 }
 
 .boisDiv h3 {
+	text-align: center;
+}
+
+.center {
 	text-align: center;
 }
