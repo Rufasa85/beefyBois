@@ -1,7 +1,11 @@
 body {
-	background-color: #ecf0f1;
+	background-color: #dfe6e9;
 	font-size: 2em;
 	font-family: 'Chango', cursive;
+}
+
+p {
+	font-size:0.75em;
 }
 
 #title {
@@ -11,6 +15,11 @@ body {
 #logo {
 	width:80%;
 	height: auto;
+}
+
+#blogRoll {
+	width: 80vw;
+	margin:0 auto;
 }
 
 #bigAssLogo {
@@ -30,6 +39,14 @@ body {
 
 .boiPic{
 	width:100%;
+}
+
+.blogPost {
+	background-color: #ecf0f1;
+	border-radius:1%;
+	width:100%;
+	box-shadow: 3px 3px
+
 }
 
 .boisDiv {
