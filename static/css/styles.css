@@ -49,6 +49,12 @@ p {
 
 }
 
+.blogDate{
+	opacity: 0.5;
+	margin: 0;
+	padding: 0;
+}
+
 .boisDiv {
 	width:32vw;
 	/*border:1px solid salmon;*/
