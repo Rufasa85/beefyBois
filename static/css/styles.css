@@ -2,10 +2,30 @@ body {
 	background-color: #dfe6e9;
 	font-size: 2em;
 	font-family: 'Chango', cursive;
+	margin:0;
 }
 
 p {
 	font-size:0.75em;
+}
+
+nav {
+	padding:0;
+	margin:0;
+	position: fixed;
+	width:100vw;
+	background-color:black;
+	height: 10vh;
+}
+
+nav ul {
+	margin:0;
+	padding:0;
+	display:flex;
+	justify-content: space-around;
+	list-style-type:none;
+	height: 100%;
+	align-items: center;
 }
 
 #title {
@@ -35,6 +55,21 @@ p {
 #boisFlex {
 	display: flex;
 	justify-content: space-around;
+}
+.spacer {
+	height: 100px;
+	margin:0;
+	padding:0;
+}
+.navBarLink, .navBarLink:hover, .navBarLink:visited, .pipes {
+	font-size: 1.1em;
+	border:0;
+	text-decoration: none;
+	color:yellow;
+}
+
+.navBarLink:hover {
+	opacity: 0.5;	
 }
 
 .boiPic{
