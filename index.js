@@ -9,4 +9,8 @@ app.get('/', function(req, res) {
 	res.render('index')
 });
 
+app.get('/reviews', (req,res)=>{
+	res.render('reviews');
+})
+
 app.listen(process.env.PORT || 3000);
