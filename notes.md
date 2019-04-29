@@ -1,31 +1,42 @@
-The AADeath 1:00
-FCFL 06:20
-Playing wide reciever in Madden 07:50
-cool dog names 10:02
-Bumper sticker thoughts 12:20
-whats up with true crime love? 15:30
-is MMA lame? 18:00
-Dad joke of the week/ Christians new haircut 20:20
-the joy of the barber 22:04
-Christians going to mexico 25:45
-Crazy home depot stories 27:40
-Including riding a bike into the store 32:30
-The poop/bang corner behind the store 34:45
-Joes annoyed the junkies are in his way 35:30
-Seeing a dead body in the HD parking lot 36:45
-Joes dead body story 42:15
-Living around here desensetized us 44:30
-Michael Buble 46:05
-Final 4 Thoughts 50:10
-NHL Playoffs 52:12
-JackBox Party Pack 53:25
-The Epic Store 58:20
-Borderlands 3 1:00:30
-Is UGC Garbage? 1:02:00
-OG Battlefront 2 1:07:10
-Listener mail 1:09:15
-Uncanny Valley in Sports Games 1:10:15
-Vito's Final Fantasy Corner 1:11:15
+How we listen 1:00
+Cabo Diablo 1:30
+NHL Playoffs 4:30
+BotW 5:25
+Sakura Con 6:52
+representation in comic books 9:10
+Endgame preview 10:02
+pre show food report 12:15
+Cabo Diablo returns 14:00
+Russell Wilson contract 18:45
+Weekend plans 20:20
+Vito's Final Fantasy Corner: FFXIV X FFXV 22:40
+<!-- Christian only likes shooters and sports 25:50
+Far Cry New Dawn is pretty cool 26:55 -->
+more thoughts on Seahawks 27:00
+NFC West predictions 33:00
+Farewell Gronk 34:30
+Who is the best tight end? 35:00
+around the sports 36:55
+Video game tidbits:
+PS5 Details 37:30
+FF7 Remake
+Smash news
+Flash sale
+Joker in smash 39:45
+XBOX SAD
+the arrival of pterry 41:40
+Joe id old games with limited information 43:15
+Dynasty warriors is so dumb 45:40
+Browns 47:40
+NFL Tidbits 49:15
+Bobby Wagner doesnt sign, Christian is done with the seahawks 50:55
+Clowning on Washington Geography 53:25
+WA State Trivia :What are the Tri-Cities 55:23
+Why is there turkey on the floor? 59:45
+ATVs? boat rides? Jet Skis? 1:00:30
+Americanization of foreign coutnries 1:08:40
+seeing celebrities in the wild 1:10:15
+Lizard hats 1:11:10
 
 
 Follow Beefy Bois on Social Media:
