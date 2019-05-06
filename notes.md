@@ -1,42 +1,25 @@
-How we listen 1:00
-Cabo Diablo 1:30
-NHL Playoffs 4:30
-BotW 5:25
-Sakura Con 6:52
-representation in comic books 9:10
-Endgame preview 10:02
-pre show food report 12:15
-Cabo Diablo returns 14:00
-Russell Wilson contract 18:45
-Weekend plans 20:20
-Vito's Final Fantasy Corner: FFXIV X FFXV 22:40
-<!-- Christian only likes shooters and sports 25:50
-Far Cry New Dawn is pretty cool 26:55 -->
-more thoughts on Seahawks 27:00
-NFC West predictions 33:00
-Farewell Gronk 34:30
-Who is the best tight end? 35:00
-around the sports 36:55
-Video game tidbits:
-PS5 Details 37:30
-FF7 Remake
-Smash news
-Flash sale
-Joker in smash 39:45
-XBOX SAD
-the arrival of pterry 41:40
-Joe id old games with limited information 43:15
-Dynasty warriors is so dumb 45:40
-Browns 47:40
-NFL Tidbits 49:15
-Bobby Wagner doesnt sign, Christian is done with the seahawks 50:55
-Clowning on Washington Geography 53:25
-WA State Trivia :What are the Tri-Cities 55:23
-Why is there turkey on the floor? 59:45
-ATVs? boat rides? Jet Skis? 1:00:30
-Americanization of foreign coutnries 1:08:40
-seeing celebrities in the wild 1:10:15
-Lizard hats 1:11:10
+Billy Madison, Role Model 1:14
+Christian and the Goonies go to the abandonded asylum 03:13
+Fun Times with Fireworks 10:15
+Joe as the kool aid man 11:15
+Nuclear bombs are scary 13:20
+Are you afraid of the dark? 14:15
+Joes nautical adventures 17:20
+Messing with your siblings 24:45
+flushing weird stuff down the toilet 27:00
+AD BREAK 29:00
+Coyotes are dorks 30:20
+Will goats eat bamboo? 32:15
+Fruit grenades 34:45
+Spider City 36:00
+More Christian goonies advnetures 37:00
+Dream land 40:20
+Fuck spiders 42:15
+Joes Obsucre game of the week: Tales of Symphonia 2 44:44
+Creepy pets 46:20
+Holes in your skin 49:00
+Goin barefoot in the city 51:10
+Impressing Carribean Islanders with my dabs 53:38
 
 
 Follow Beefy Bois on Social Media:
